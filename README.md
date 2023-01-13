@@ -9,11 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-9a207.web.app/](https://portfolio-9a207.web.app/)
 
-- 💬 Ask me about **iOS, Android**
-
 - 📫 How to reach me **jerome.decinco@maxwell.mi.it**
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fact **Look at the sunshine at least once a day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
