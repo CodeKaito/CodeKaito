@@ -22,6 +22,8 @@
 
 - 👨‍💻 Here some bunch of my recent projects:
 
+- Portofolio created with Reactbricks -> https://codekaito-reactbricks-portfolio.vercel.app/
+
 - Portfolio created with ReactJS -> https://codekaito-reactjs-portfolio.netlify.app/
 
 - Portfolio created with Nextjs -> https://codekaito-nextjs-portfolio1.netlify.app
