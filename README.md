@@ -7,7 +7,19 @@
 
 - 🌱 I’m currently learning **Python, React JS, Angular, C# and Blazor app**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-9a207.web.app/](https://portfolio-9a207.web.app/)
+- 👨‍💻 Here some bunch of my recent projects:
+
+Portfolio created with ReactJS -> https://codekaito-reactjs-portfolio.netlify.app/
+
+Portfolio created with Nextjs -> https://codekaito-nextjs-portfolio1.netlify.app
+
+3D ball created with ThreeJS -> https://codekaito-3d-ball.netlify.app
+
+3D carousel photos created with ThreeJS -> https://codekaito-3d-carousel.netlify.app
+
+Modern UI CHATGPT created with ReactJS -> https://codekaito-chat-gpt-3.netlify.app
+
+Modern UI Restaurant created with ReactJS -> https://codekaito-restaurant.netlify.app
 
 - 📫 How to reach me **jerome.decinco@maxwell.mi.it**
 
