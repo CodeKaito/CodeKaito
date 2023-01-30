@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jerome</h1>
-<h3 align="center">Newbie developer | programmer</h3>
+<h3 align="center">A newbie frontend developer | programmer</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=A+passionate+frontend+developer+;from+Asia;I'm+trying+to+knowledge+all+of+the;+programming+languages;Please+be+kind+to+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1&color=F7C544&width=435&lines=Eat;Code;Sleep;Repeat!)](https://git.io/typing-svg)
 
 <img align="right" width="400" src="https://camo.githubusercontent.com/fd804ebeb2e916e4c2cb2e3fcf77954f6b4f125b10d326c2126b930f1dadba31/68747470733a2f2f692e696d6775722e636f6d2f72336e6f336d502e676966" alt="Coding" />
 
