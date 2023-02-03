@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jerome</h1>
 <h3 align="center">A newbie frontend developer | programmer</h3>
+<h2 align="center">A day without learning anything is a lost day</h2>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1&color=F7C544&width=435&lines=Eat;Code;Sleep;Repeat!)](https://git.io/typing-svg)
 
