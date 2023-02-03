@@ -3,7 +3,9 @@
 <h4 align="center">A day without learning anything is a lost day</h4>
 
 <div align="center">
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1&color=F7C544&width=435&lines=Eat;Code;Sleep;Repeat!)](https://git.io/typing-svg)
+ 
 </div>
  
 <img align="right" width="400" src="https://camo.githubusercontent.com/fd804ebeb2e916e4c2cb2e3fcf77954f6b4f125b10d326c2126b930f1dadba31/68747470733a2f2f692e696d6775722e636f6d2f72336e6f336d502e676966" alt="Coding" />
