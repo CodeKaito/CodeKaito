@@ -1,18 +1,20 @@
-<h1 align="center">Hi 👋, I'm Jerome</h1>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<br>
+<p align="center">
+    <h1 align="center">✩&emsp;CodeKaito&emsp;✩</h1>
+</p>
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Eat;Sleep;Code;Repeat!&font=Fira+Code&duration=4000&color=E4C13F&center=true&width=280&height=50" alt="Typing SVG" />
+</p>
 <h3 align="center">A newbie frontend developer | programmer</h3>
 <h4 align="center">A day without learning anything is a lost day</h4>
-
-<div align="center">
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1&color=F7C544&width=435&lines=Eat;Code;Sleep;Repeat!)](https://git.io/typing-svg)
-
-</div>
- 
+<p align="center">
+<br>
 
 <img align="right" width="400"
 src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codekaito&label=Profile%20views&color=0e75b6&style=flat" alt="codekaito" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=codekaito&label=Profile%20views&color=0e75b6&style=flat" alt="codekaito" /> </p>
 
 - 🌱 I’m currently learning **Python, React JS, Angular, C# and Blazor app**
 
