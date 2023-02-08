@@ -28,7 +28,8 @@ src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" /
 <a href="https://instagram.com/carljeromee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carljeromee" height="30" width="40" /></a>
 </p>
 
-## 👨‍💻 Here some bunch of my recent projects:
+
+# 👨‍💻 Here some bunch of my recent projects:
 
 - Portofolio created with Reactbricks -> https://reactbricks-portfolio.vercel.app/
 
