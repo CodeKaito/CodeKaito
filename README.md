@@ -10,7 +10,7 @@
  
 
 <img align="right" width="400"
-src="[https://i.pinimg.com/originals/d3/db/e3/d3dbe3af0dfef384f824ef40c1af36f7.gif](https://camo.githubusercontent.com/fd804ebeb2e916e4c2cb2e3fcf77954f6b4f125b10d326c2126b930f1dadba31/68747470733a2f2f692e696d6775722e636f6d2f72336e6f336d502e676966)" alt="coding" />
+src="https://camo.githubusercontent.com/fd804ebeb2e916e4c2cb2e3fcf77954f6b4f125b10d326c2126b930f1dadba31/68747470733a2f2f692e696d6775722e636f6d2f72336e6f336d502e676966" alt="coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codekaito&label=Profile%20views&color=0e75b6&style=flat" alt="codekaito" /> </p>
 
