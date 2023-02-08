@@ -63,7 +63,7 @@ src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" /
 
 <!-- GitHub streak -->
 ### 🏆 GitHub Contribution Streak! Road to 100:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codekaito&" alt="codekaito" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codekaito&" alt="codekaito" /></p>
 
 
 <!--   GitHub stats graph -->
