@@ -15,9 +15,9 @@ src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" /
 
 - 📚 I’m currently learning **Python, React JS, Angular, C# and Blazor app**
 
-- 📫 How to reach me **jerome.decinco@maxwell.mi.it**
+- 📫 Reach me: **jerome.decinco@maxwell.mi.it**
 
-- ☀️ **Look at the sunshine at least once a day**
+- ☀️ **Watch the sunrise at least once a day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
