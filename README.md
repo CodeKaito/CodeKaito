@@ -8,19 +8,16 @@
 </p>
 <h3 align="center">A newbie frontend developer | programmer</h3>
 <h4 align="center">A day without learning anything is a lost day</h4>
-<p align="center">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=codekaito&label=Profile%20views&color=0e75b6&style=flat" alt="codekaito" /> </p>
 <br>
-
 <img align="right" width="400"
 src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=codekaito&label=Profile%20views&color=0e75b6&style=flat" alt="codekaito" /> </p>
-
-- 🌱 I’m currently learning **Python, React JS, Angular, C# and Blazor app**
+- 📚 I’m currently learning **Python, React JS, Angular, C# and Blazor app**
 
 - 📫 How to reach me **jerome.decinco@maxwell.mi.it**
 
-- ⚡ Fact **Look at the sunshine at least once a day**
+- ☀️ **Look at the sunshine at least once a day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
