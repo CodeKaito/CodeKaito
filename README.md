@@ -11,8 +11,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codekaito&label=Profile%20views&color=0e75b6&style=flat" alt="codekaito" /> </p>
 <br>
 
+
 <img align="right" width="400"
 src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" />
+
 
 <h3 align="center">Hello my viewer!🐿️</h3>
 <p align="left">📚 I’m currently learning **Python, React JS, Angular, C# and Blazor app<p>
