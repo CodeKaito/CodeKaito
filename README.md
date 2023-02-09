@@ -13,7 +13,7 @@
 <img align="right" width="400"
 src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" />
 
-<p align="left">Hello my viewer!</p>
+<h3 align="center">Hello my viewer!🐿️</h3>
 <p>📚 I’m currently learning **Python, React JS, Angular, C# and Blazor app**</p>
     📫 Reach me: **jerome.decinco@maxwell.mi.it**
     ☀️ **Watch the sunrise at least once a day**
