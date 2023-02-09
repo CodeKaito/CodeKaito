@@ -30,8 +30,7 @@ src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" /
 
 <br>
 <h2 align="center">👨‍💻 Here some bunch of my recent projects:</h2>
-
-- Portofolio created with Reactbricks -> https://reactbricks-portfolio.vercel.app/
+[Reactbricks's portfolio](https://reactbricks-portfolio.vercel.app/)
 
 - Portfolio created with ReactJS -> https://codekaito-reactjs-portfolio.netlify.app/
 
