@@ -10,13 +10,14 @@
 <h4 align="center">A day without learning anything is a lost day</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codekaito&label=Profile%20views&color=0e75b6&style=flat" alt="codekaito" /> </p>
 <br>
+
 <img align="right" width="400"
 src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" />
 
 <h3 align="center">Hello my viewer!🐿️</h3>
-<p>📚 I’m currently learning **Python, React JS, Angular, C# and Blazor app**</p>
-    📫 Reach me: **jerome.decinco@maxwell.mi.it**
-    ☀️ **Watch the sunrise at least once a day**
+<p align="left">📚 I’m currently learning **Python, React JS, Angular, C# and Blazor app<p>
+<p align="left">📫 Reach me: jerome.decinco@maxwell.mi.it<p>
+<p align="left">☀️ Watch the sunrise at least once a day<p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
