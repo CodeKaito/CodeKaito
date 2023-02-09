@@ -30,23 +30,24 @@ src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" /
 
 <br>
 <h2 align="center">👨‍💻 Here some bunch of my recent projects:</h2>
+
 [Reactbricks's portfolio](https://reactbricks-portfolio.vercel.app/)
 
-- Portfolio created with ReactJS -> https://codekaito-reactjs-portfolio.netlify.app/
+[ReactJS's portfolio](https://codekaito-reactjs-portfolio.netlify.app/)
 
-- Portfolio created with Nextjs -> https://codekaito-nextjs-portfolio1.netlify.app
+[NextJS's portfolio](https://codekaito-nextjs-portfolio1.netlify.app)
 
-- 3D ball created with ThreeJS -> https://codekaito-3d-ball.netlify.app
+[ThreeJS's 3D ball](https://codekaito-3d-ball.netlify.app)
 
-- 3D carousel photos created with ThreeJS -> https://codekaito-3d-carousel.netlify.app
+[ThreeJS's Photo Carousel](https://codekaito-3d-carousel.netlify.app)
 
-- Modern UI CHATGPT created with ReactJS -> https://codekaito-chat-gpt-3.netlify.app
+[ReactJS's Modern UI Chatgpt](https://codekaito-chat-gpt-3.netlify.app)
 
-- Modern UI Restaurant created with ReactJS -> https://codekaito-restaurant.netlify.app
+[ReactJS's Modern UI Restaurant](https://codekaito-restaurant.netlify.app)
 
-- Nextjs UI dashboard -> https://nextjs-dashboard-steel-seven.vercel.app
+[NextJS's UI Dashboard](https://nextjs-dashboard-steel-seven.vercel.app)
 
-- Nextjs photo gallery -> https://nextjs-photo-gallery.vercel.app
+[NextJS's Photo Gallery](https://nextjs-photo-gallery.vercel.app)
 
 <p align="center">
     <a href="https://leetcode.com/CodeKaito/"><img width="48%" src="https://leetcode.card.workers.dev/codekaito?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
