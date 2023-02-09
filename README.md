@@ -22,7 +22,7 @@ src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" /
 <p align="left">🚀 When you reach your limit, break it!</p>
 <p align="left">☀️ Watch the sunrise at least once a day<p>
 
-
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/carljeromeoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carljeromeoff" height="30" width="40" /></a>
