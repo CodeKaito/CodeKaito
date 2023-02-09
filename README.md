@@ -16,7 +16,7 @@
 src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" />
 
 <h3 align="center">Hello my viewer!🐿️</h3>
-<p align="left"></p>
+<p align="left">👨‍💻 I'm Jerome, a 25yo guy passionate in deveoloping and programming</p>
 <p align="left">📚 I’m currently learning Python, React JS, Angular, C# and Blazor app<p>
 <p align="left">📫 Reach me: jerome.decinco@maxwell.mi.it<p>
 <p align="left">☀️ Watch the sunrise at least once a day<p>
