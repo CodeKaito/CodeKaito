@@ -29,7 +29,7 @@ src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" /
 </p>
 
 <br>
-<h2 align="center">👨‍💻 Here some bunch of my recent projects:</h2>
+<h2 align="center">👨‍💻 Down below, some of my recent projects:</h2>
 
 [Reactbricks's portfolio](https://reactbricks-portfolio.vercel.app/) | 
 [ReactJS's portfolio](https://codekaito-reactjs-portfolio.netlify.app/) |
