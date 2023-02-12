@@ -74,7 +74,7 @@ src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" /
 
 ![snake gif](https://github.com/codekaito/codekaito/blob/output/github-contribution-grid-snake.gif)
 
-<a  href="https://github.com/CodeKaito">
+<a align="center" href="https://github.com/CodeKaito">
 
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
