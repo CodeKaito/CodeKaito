@@ -77,8 +77,8 @@ src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" /
 <!--   GitHub snake contribution graph -->
 <h3 align="center"> 📊 GitHub Stats Graph: </h3>
 
-<a align="center" href="https://github.com/CodeKaito">
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<a href="https://github.com/CodeKaito">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Codekaito&theme=github_dark" width="32.5%">
 <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
 <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 </a>
