@@ -27,7 +27,7 @@ src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" /
 <p align="center">
 <a href="https://twitter.com/carljeromeoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="carljeromeoff" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jerome-de-cinco-4b4904189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerome-de-cinco-4b4904189/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/kaitosenpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaitosenpai" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20513593/kaitosenpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaitosenpai" height="30" width="40" /></a>
 <a href="https://fb.com/jeromeecarl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jeromeecarl" height="30" width="40" /></a>
 <a href="https://instagram.com/carljeromee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carljeromee" height="30" width="40" /></a>
 </p>
