@@ -110,10 +110,14 @@ Down below some motivational advices:
 <p align="center">
     <!-- Servicenow -->
     <a href="https://www.servicenow.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-icon.svg" alt="servicenow" width="40" height="40"/> </a>
-    <!-- Accenture -->
-    <a href="https://www.accenture.com/it-it" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/accenture/accenture-icon.svg" alt="accenture" width="40" height="40"/> </a>
     <!-- Salesforce -->
     <a href="https://www.salesforce.com/eu/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="salesforce" width="40" height="40"/> </a>
+    <!-- Accenture -->
+    <a href="https://www.accenture.com/it-it" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/accenture/accenture-icon.svg" alt="accenture" width="40" height="40"/> </a>
+    <!-- Microsoft -->
+    <a href="https://www.microsoft.com/fr-fr" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="microsoft" width="40" height="40"/> </a>
+    <!-- Microsoft Azure -->
+    <a href="https://www.microsoft.com/fr-fr" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft" width="40" height="40"/> </a>
 </p>
 
 
