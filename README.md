@@ -85,4 +85,5 @@ src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" /
 
 <!--   GitHub donation -->
 <h3 align="center"> 💰 You can help me by Donating: </h3>
-<a href='https://ko-fi.com/O5O8ISAK6' target='_blank' align='center'><img align='center' height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' align='center' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a align='center'>
+<a href='https://ko-fi.com/O5O8ISAK6' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></a>
