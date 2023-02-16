@@ -28,9 +28,7 @@ Down below some motivational advices:
 🚀 When you reach your limit, break it!
 <br>
 ☀️ Watch the sunrise at least once a day
-<br>
-<br>
-<a href='https://ko-fi.com/O5O8ISAK6' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 
 <br>
 <h3 align="center">Connect with me:</h3>
@@ -92,3 +90,7 @@ Down below some motivational advices:
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Codekaito&theme=github_dark" width="32.5%">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Codekaito&theme=github_dark" width="32.5%">
 </a>
+
+<p align="center">
+ <a href='https://ko-fi.com/O5O8ISAK6' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</p>
