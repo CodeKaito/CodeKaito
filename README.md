@@ -16,11 +16,11 @@
 src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" />
 
 <h3 align="center">Hello my viewer! 🐿️</h3>
-<p align="left">👨‍💻 I'm Jerome, a 25yo guy passionate in deveoloping and programming</p>
-<p align="left">📚 I’m currently learning Python, React JS, Angular, C# and Blazor<p>
-<p align="left">📫 Reach me at jerome.decinco@maxwell.mi.it<p>
-<p align="left">🚀 When you reach your limit, break it!</p>
-<p align="left">☀️ Watch the sunrise at least once a day<p>
+👨‍💻 I'm Jerome, a 25yo guy passionate in deveoloping and programming
+📚 I’m currently learning Python, React JS, Angular, C# and Blazor
+📫 Reach me at jerome.decinco@maxwell.mi.it
+🚀 When you reach your limit, break it!
+☀️ Watch the sunrise at least once a day
 <a href='https://ko-fi.com/O5O8ISAK6' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 <br>
