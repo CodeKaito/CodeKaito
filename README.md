@@ -115,9 +115,13 @@ Down below some motivational advices:
     <!-- Accenture -->
     <a href="https://www.accenture.com/it-it" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/accenture/accenture-icon.svg" alt="accenture" width="40" height="40"/> </a>
     <!-- Microsoft -->
-    <a href="https://www.microsoft.com/fr-fr" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="microsoft" width="40" height="40"/> </a>
+    <a href="https://www.microsoft.com/it-it" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="microsoft" width="40" height="40"/> </a>
     <!-- Microsoft Azure -->
-    <a href="https://www.microsoft.com/fr-fr" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft" width="40" height="40"/> </a>
+    <a href="https://www.microsoft.com/it-it" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft" width="40" height="40"/> </a>
+    <!-- Microsoft Azure -->
+    <a href="https://www.sap.com/italy/index.html?url_id=auto_hp_redirect_italy" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="40" height="40"/> </a>
+    
+    
 </p>
 
 
