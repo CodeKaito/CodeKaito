@@ -22,6 +22,7 @@ I have worked with a variety of languages and projects and
 <br>
 I try to create what's for me the perfect project and user interface design.
 <br>
+<br>
 Down below some motivational advices:
 <br>
 🚀 When you reach your limit, break it!
