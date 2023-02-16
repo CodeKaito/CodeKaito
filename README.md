@@ -82,3 +82,7 @@ src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" /
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Codekaito&theme=github_dark" width="32.5%">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Codekaito&theme=github_dark" width="32.5%">
 </a>
+
+<!--   GitHub donation -->
+<h3 align="center"> 💰 You can help me by Donating: </h3>
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/CodeKaito) 
