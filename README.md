@@ -91,6 +91,9 @@ Down below some motivational advices:
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Codekaito&theme=github_dark" width="32.5%">
 </a>
 
+<!--   GitHub buy me a coffee -->
+<h3 align="center"> 💰 GitHub donations: </h3>
+
 <p align="center">
  <a href='https://ko-fi.com/O5O8ISAK6' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
