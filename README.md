@@ -112,6 +112,8 @@ Down below some motivational advices:
     <a href="https://www.servicenow.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-icon.svg" alt="servicenow" width="40" height="40"/> </a>
     <!-- Accenture -->
     <a href="https://www.accenture.com/it-it" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/accenture/accenture-icon.svg" alt="accenture" width="40" height="40"/> </a>
+    <!-- Salesforce -->
+    <a href="https://www.salesforce.com/eu/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="salesforce" width="40" height="40"/> </a>
 </p>
 
 
