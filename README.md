@@ -15,7 +15,7 @@
 <img align="right" width="400"
 src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" />
 
-<h3 align="center">Hello my viewer! 🐿️</h3>
+<h3 align="center">Hi there! 🐿️</h3>
 👨‍💻 I'm Jerome, a 25yo guy passionate in web developing and sw programming
 <br>
 I have worked with a variety of languages and projects and I try to create
