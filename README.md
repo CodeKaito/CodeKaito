@@ -84,3 +84,6 @@ src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" /
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Codekaito&theme=github_dark" width="32.5%">
 </a>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=codekaito&label=Profile%20Views&color=0&icon=9&pretty=true" />
+</a>
