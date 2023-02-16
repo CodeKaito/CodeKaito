@@ -109,8 +109,11 @@ Down below some motivational advices:
 <h3 align="center"> ⚙️ Companies, Technologies & Skills worked with: </h3>
 <p align="center">
     <!-- Servicenow -->
-    <a href="https://www.servicenow.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-ar21.svg" alt="servicenow" width="40" height="40"/> </a>
+    <a href="https://www.servicenow.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-icon.svg" alt="servicenow" width="40" height="40"/> </a>
+    <!-- Accenture -->
+    <a href="https://www.accenture.com/it-it" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/accenture/accenture-icon.svg" alt="accenture" width="40" height="40"/> </a>
 </p>
+
 
 <!-- GitHub streak -->
 <h3 align="center"> 🏆 GitHub Contribution Streak! Road to 100: </h3>
