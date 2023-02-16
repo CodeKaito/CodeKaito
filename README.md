@@ -16,11 +16,15 @@
 src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" />
 
 <h3 align="center">Hello my viewer! 🐿️</h3>
-👨‍💻 I'm Jerome, a 25yo guy passionate in deveoloping and programming
+👨‍💻 I'm Jerome, a 25yo guy passionate in web developing and sw programming
 <br>
-📚 I’m currently learning Python, React JS, Angular, C# and Blazor
+I have worked with a variety of languages and projects and
 <br>
-📫 Reach me at jerome.decinco@maxwell.mi.it
+I try to create what's for me the perfect project and user
+<br>
+interface design.
+<br>
+Down below some motivational advices:
 <br>
 🚀 When you reach your limit, break it!
 <br>
