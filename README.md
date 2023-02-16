@@ -20,9 +20,7 @@ src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" /
 <br>
 I have worked with a variety of languages and projects and
 <br>
-I try to create what's for me the perfect project and user
-<br>
-interface design.
+I try to create what's for me the perfect project and user interface design.
 <br>
 Down below some motivational advices:
 <br>
