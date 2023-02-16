@@ -102,7 +102,15 @@ Down below some motivational advices:
     <!-- Swift iOS -->
     <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
     <!-- Unity -->
-    <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+    <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+</p>
+    
+<!-- GitHub Technologies & Skills -->    
+<h3 align="center"> ⚙️ Technologies & Skills: </h3>
+<p align="center">
+    <!-- Unity -->
+    <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+</p>
 
 <!-- GitHub streak -->
 <h3 align="center"> 🏆 GitHub Contribution Streak! Road to 100: </h3>
