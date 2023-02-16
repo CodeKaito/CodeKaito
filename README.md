@@ -21,6 +21,7 @@ src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" /
 <p align="left">📫 Reach me at jerome.decinco@maxwell.mi.it<p>
 <p align="left">🚀 When you reach your limit, break it!</p>
 <p align="left">☀️ Watch the sunrise at least once a day<p>
+<a href='https://ko-fi.com/O5O8ISAK6' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 <br>
 <h3 align="center">Connect with me:</h3>
