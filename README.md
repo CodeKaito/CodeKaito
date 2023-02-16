@@ -106,10 +106,10 @@ Down below some motivational advices:
 </p>
     
 <!-- GitHub Technologies & Skills -->    
-<h3 align="center"> ⚙️ Technologies & Skills: </h3>
+<h3 align="center"> ⚙️ Companies, Technologies & Skills worked with: </h3>
 <p align="center">
-    <!-- Unity -->
-    <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+    <!-- Servicenow -->
+    <a href="https://www.servicenow.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/servicenow/servicenow-ar21.svg" alt="servicenow" width="40" height="40"/> </a>
 </p>
 
 <!-- GitHub streak -->
