@@ -18,9 +18,9 @@ src="https://github.com/CodeKaito/CodeKaito/blob/main/typing.gif" alt="coding" /
 <h3 align="center">Hello my viewer! 🐿️</h3>
 👨‍💻 I'm Jerome, a 25yo guy passionate in web developing and sw programming
 <br>
-I have worked with a variety of languages and projects and
+I have worked with a variety of languages and projects and I try to create
 <br>
-I try to create what's for me the perfect project and user interface design.
+what's for me the perfect project and UI/UX design. 
 <br>
 <br>
 Down below some motivational advices:
