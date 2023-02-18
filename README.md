@@ -6,7 +6,7 @@
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Eat;Sleep;Code;Repeat!&font=Fira+Code&duration=4000&color=E4C13F&center=true&width=280&height=50" alt="Typing SVG" />
 </p>
-<h3 align="center">A newbie frontend developer | programmer</h3>
+<h3 align="center">Frontend Dev | Software Engineer</h3>
 <h4 align="center">A day without learning anything is a lost day</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codekaito&label=Profile%20views&color=0e75b6&style=flat" alt="codekaito" /> </p>
 <br>
