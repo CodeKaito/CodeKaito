@@ -132,7 +132,6 @@ Down below some motivational advices:
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codekaito&" alt="codekaito" /></p>
 
-
 <!--   GitHub stats graph -->
 <h3 align="center"> 📈 GitHub Activity Graph: </h3>
 
