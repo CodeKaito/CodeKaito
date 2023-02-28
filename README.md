@@ -124,7 +124,11 @@ Down below some motivational advices:
     <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/> </a>
     <!-- Visual Studio Code -->
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
+    <!-- Eclipse -->
+    <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/eclipse_che/eclipse_che-icon.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
 </p>
+    
+    
 
 
 <!-- GitHub streak -->
