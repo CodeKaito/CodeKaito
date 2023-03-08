@@ -43,6 +43,7 @@ Down below some motivational advices:
 <br>
 <h2 align="center">👨‍💻 Down below, some of my recent projects:</h2>
 
+[ReactJS+ViteJS' 3D portfolio](https://kaito-3d-portfolio.vercel.app/) |
 [Reactbricks's portfolio](https://reactbricks-portfolio.vercel.app/) | 
 [ReactJS's portfolio](https://codekaito-reactjs-portfolio.netlify.app/) |
 [NextJS's portfolio](https://codekaito-nextjs-portfolio1.netlify.app) |
