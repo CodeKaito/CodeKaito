@@ -53,6 +53,7 @@ Down below some motivational advices:
 [ReactJS's Modern UI Restaurant](https://codekaito-restaurant.netlify.app) |
 [NextJS's UI Dashboard](https://nextjs-dashboard-steel-seven.vercel.app) |
 [NextJS's Photo Gallery](https://nextjs-photo-gallery.vercel.app) |
+[NextJS's Dashboard](https://nextjs-dashboard-steel-seven.vercel.app/)
 
 <p align="center">
     <a href="https://leetcode.com/CodeKaito/"><img width="48%" src="https://leetcode.card.workers.dev/codekaito?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
