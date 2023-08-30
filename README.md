@@ -159,7 +159,7 @@ Down below some motivational advices:
 <a href="https://github.com/CodeKaito">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Codekaito&theme=github_dark" width="32.5%">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Codekaito&theme=github_dark" width="32.5%">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Codekaito&theme=github_dark" width="32.5%">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodeKaito&theme=github_dark&utcOffset=8" width="32.5%">
 </a>
 
 <a href="https://github.com/CodeKaito">
