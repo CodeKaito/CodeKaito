@@ -68,6 +68,15 @@ Down below some motivational advices:
  <h1 align="center">GitHub Readme Stats</h1>
 </p>
 
+<!-- GitHub streak -->
+<h3 align="center"> 🏆 GitHub Contribution Streak! Road to 100: </h3>
+
+<div align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=CodeKaito&theme=tokyonight"/>
+    </a>
+</div>
+
 <h3 align="center"> 💻 Programming languages that I know: </h3>
 <p align="center">
     <!-- Angular -->
@@ -132,15 +141,6 @@ Down below some motivational advices:
     <!-- Eclipse -->
     <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/eclipse_che/eclipse_che-icon.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
 </p>
-    
-    
-
-
-<!-- GitHub streak -->
-<h3 align="center"> 🏆 GitHub Contribution Streak! Road to 100: </h3>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=codekaito&hide_border=true&type=png)](https://git.io/streak-stats)
-
 
 <!--   GitHub stats graph -->
 <h3 align="center"> 📈 GitHub Activity Graph: </h3>
