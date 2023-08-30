@@ -4,10 +4,11 @@
     <h1 align="center">❄️&emsp;CodeKaito&emsp;❄️</h1>
 </p>
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Eat;Sleep;Code;Repeat!&font=Fira+Code&duration=4000&color=E4C13F&center=true&width=280&height=50" alt="Typing SVG" />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Eat;Code;Sleep;Repeat!&font=Verdana&duration=2000&pause=100&color=11B4F7&center=true&width=280&height=40" alt="Typing SVG" />
 </p>
 <h2 align="center">Fullstack Dev | Software Engineer</h2>
 <h4 align="center">“A day without learning anything is a lost day”</h4>
+     <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codekaito&label=Profile%20views&color=0e75b6&style=flat" alt="codekaito" /> </p>
 
 <p align="center">
@@ -15,7 +16,7 @@
   <p align="center">
     <a href="https://www.youtube.com/channel/UCs033FjEkfk1FCOZLEXVvPQ">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
-    <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
+    <a href="https://www.youtube.com/channel/UCs033FjEkfk1FCOZLEXVvPQ">
       <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
   <a href="https://discord.gg/5WQkukRW" alt="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
