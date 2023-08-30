@@ -162,6 +162,10 @@ Down below some motivational advices:
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Codekaito&theme=github_dark" width="32.5%">
 </a>
 
+<a href="https://github.com/CodeKaito">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeKaito&theme=github_dark" width="98.5%">
+</a>
+
 <!--   GitHub buy me a coffee -->
 <h3 align="center"> 💰 GitHub donations: </h3>
 
