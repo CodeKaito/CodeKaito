@@ -71,7 +71,8 @@ Down below some motivational advices:
 [NextJS's Photo Gallery](https://nextjs-photo-gallery.vercel.app) |
 [NextJS's Dashboard](https://nextjs-dashboard-steel-seven.vercel.app/) |
 [ReactJS's API Gym](https://codekaito-gym.netlify.app/) |
-[ViteJS's Nike Webpage](https://vitejs-nike.vercel.app/)
+[ViteJS's Nike Webpage](https://vitejs-nike.vercel.app/) |
+[Trello Clone](https://nextjs-trello.vercel.app/)
 
 <p align="center">
     <a href="https://leetcode.com/CodeKaito/"><img width="48%" src="https://leetcode.card.workers.dev/codekaito?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
