@@ -79,7 +79,7 @@ Down below some motivational advices:
     <a href="https://github.com/codekaito"><img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codekaito&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
 
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=CodeKaito)](https://github.com/ignacio-cuadra/github-readme-codewars)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=CodeKaito)]
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
