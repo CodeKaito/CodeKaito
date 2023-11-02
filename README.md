@@ -83,6 +83,10 @@ Down below some motivational advices:
 <h2 align="center">⚔️ CodeWars status ⚔️</h2>
 
 <p align="center" >
+    <img src="https://www.codewars.com/users/CodeKaito/badges/large" />
+</p>
+
+<p align="center" >
     <a href="LINK TO: WHEN CLICKED">
       <img src="https://github.r2v.ch/codewars?user=CodeKaito" />
     </a>
