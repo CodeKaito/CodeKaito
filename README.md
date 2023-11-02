@@ -91,7 +91,7 @@ Down below some motivational advices:
       <img src="https://github.r2v.ch/codewars?user=CodeKaito" />
     </a>
     <a href="LINK TO: WHEN CLICKED">
-        <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=CodeKaito" />
+        <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=CodeKaito&theme=dark"/> 
     </a>
 </p>
 
