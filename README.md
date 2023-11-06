@@ -183,7 +183,7 @@ Down below some motivational advices:
 <!--   GitHub snake contribution graph -->
 <h3 align="center"> 🐍 GitHub Snake eating my contribution graph: </h3>
 
-
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 <!--   GitHub snake contribution graph -->
 <h3 align="center"> 📊 GitHub Stats Graph: </h3>
