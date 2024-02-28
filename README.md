@@ -185,7 +185,7 @@ Down below some motivational advices:
 
 [![Generate Snake](https://github.com/CodeKaito/CodeKaito/actions/workflows/main.yml/badge.svg)](https://github.com/CodeKaito/CodeKaito/actions/workflows/main.yml)
 
-![Snake animation](https://github.com/Platane/Platane/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/CodeKaito/CodeKaito/blob/output/github-contribution-grid-snake.gif?raw=true)
 
 <!--   GitHub snake contribution graph -->
 <h3 align="center"> 📊 GitHub Stats Graph: </h3>
